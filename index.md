@@ -9,7 +9,7 @@
 - HTML,CSS,PHP勉強中
 
 # Contact
-- [Twitter](https://twitter.com@silvergrass_sea)
+- [Twitter](https://twitter.com/silvergrass_sea)
 - [Mail](mailto:totheseaofkirara2157@gmali.com)
 
 # History
