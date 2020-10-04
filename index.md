@@ -1,3 +1,7 @@
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/silvergrass_sea?ref_src=twsrc%5Etfw">Tweets by silvergrass_sea</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe src="https://www.openprocessing.org/sketch/977496/embed/" width="400" height="300"></iframe>
+
 # About
 プログラミング初心者です。  
 今は工場で働いています。  
