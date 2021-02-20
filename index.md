@@ -1,3 +1,4 @@
+![プロフィール写真](2021.2.11証明写真34.jpg)
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/silvergrass_sea?ref_src=twsrc%5Etfw">Tweets by silvergrass_sea</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <iframe src="https://www.openprocessing.org/sketch/977496/embed/" width="400" height="300"></iframe>
@@ -14,7 +15,7 @@
 
 # Contact
 - [Twitter](https://twitter.com/silvergrass_sea)
-- [Mail](mailto:totheseaofkirara2157@gmali.com)
+- [Mail](mailto:marikokurita572@gmali.com)
 
 # History
 - 2005年　4月　[静岡県立静岡東高等学校　普通科](https://www.shizuoka-east.jp/)　入学
